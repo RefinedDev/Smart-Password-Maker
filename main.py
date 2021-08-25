@@ -6,9 +6,13 @@ import numpy as np
 import uuid
 import pyperclip
 import random
+from versionCheck import check
 
 class SPM:
     def __init__(self):
+        self.CURRENT_VERSION  = '0.1'
+        check(self.CURRENT_VERSION)
+
         self.UI = Tk()
         self.BGcolor = 'dim gray'
 
