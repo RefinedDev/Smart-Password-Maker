@@ -3,4 +3,4 @@
 Just another password generator that does not repeat and has some other special functionalities too. 
 
 # Installation 
-To install go to the [Latest Release Page](https://github.com/RefinedDev/Stask/releases)
+To install go to the [Latest Release Page](https://github.com/RefinedDev/Smart-Password-Maker/releases)
